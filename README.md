@@ -192,7 +192,43 @@ booktitle={IEEE International Conference on AI in Cybersecurity},
 year={2026}
 }
 ```
+## Model Architecture
 
+The proposed **FiLM-WGAN-CGAN architecture** used for conditional password generation.
+
+![FiLM WGAN Architecture](figures/wgan-cgan-film.png)
+
+---
+
+## Training Loss Curves
+
+Representative generator and critic loss curves during training.
+
+![Training Loss](figures/loss_curve.png)
+
+---
+
+## Generated Length Distribution
+
+Comparison of password length distributions between real data and generated samples.
+
+![Length Distribution](figures/length_distribution.png)
+
+---
+
+## Conditional Fidelity Confusion Matrix
+
+Confusion matrix comparing **requested length buckets vs generated outputs**.
+
+![Confusion Matrix](figures/confusion_matrix.png)
+
+---
+
+## Character Class Distribution
+
+Comparison of character-class frequencies between generated passwords and real data.
+
+![Character Class Coverage](figures/char_class_coverage.png)
 ---
 
 # License
