@@ -37,9 +37,6 @@ All experiments follow strict ethical guidelines and report **aggregate statisti
 ```
 film-wgan-password-generation
 │
-├── paper
-│   └── GAN_final_paper.pdf
-│
 ├── notebooks
 │   ├── 01_preprocess.ipynb
 │   ├── 02_train_model.ipynb
