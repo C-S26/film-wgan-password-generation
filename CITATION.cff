@@ -1,6 +1,15 @@
 cff-version: 1.2.0
-title: FiLM-Enhanced WGAN for Conditional Password Generation
+title: Conditional Password Generation Using a FiLM-Enhanced WGAN
+message: If you use this repository, please cite the associated paper.
 authors:
   - family-names: Shetty
-    given-names: Pranav Shetty, Pavan P, Srinivas P M, Pruthvi C V, Vishal Pujar
+    given-names: Pranav S
+  - family-names: P
+    given-names: Pavan
+  - family-names: Srinivas
+    given-names: P M
+  - family-names: Pruthvi
+    given-names: C V
+  - family-names: Pujar
+    given-names: Vishal K
 year: 2026
