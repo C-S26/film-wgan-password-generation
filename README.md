@@ -179,19 +179,7 @@ This repository does **not release raw password data or generated password sampl
 
 Only **aggregate statistics** are reported to prevent misuse.
 
----
 
-# Citation
-
-If you use this work, please cite:
-
-```
-@inproceedings{film_wgan_password_2026,
-title={Conditional Password Generation Using a FiLM-Enhanced WGAN},
-booktitle={IEEE International Conference on AI in Cybersecurity},
-year={2026}
-}
-```
 ## Model Architecture
 
 The proposed **FiLM-WGAN-CGAN architecture** used for conditional password generation.
